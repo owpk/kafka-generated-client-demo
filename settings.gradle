@@ -1,0 +1,6 @@
+rootProject.name = 'kafka-starter-test'
+include 'kafka-client-api'
+include 'kafka-starter'
+include 'application'
+include 'generated-kafka-client'
+
