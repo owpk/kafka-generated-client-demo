@@ -3,4 +3,5 @@ include 'kafka-client-api'
 include 'kafka-starter'
 include 'application'
 include 'generated-kafka-client'
+include 'generated-kafka-client'
 

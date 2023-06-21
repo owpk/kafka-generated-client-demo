@@ -1,6 +1,6 @@
 package ru.sparural.app.services;
 
-import ru.sparural.kafka.generatedclient.AnotherServiceGeneratedKafkaClient;
+import ru.sparural.kafak.generatedclient.AnotherServiceGeneratedKafkaClient;
 import ru.sparural.kafka.starter.RequestCreatorImpl;
 
 public class ApplicationService {
